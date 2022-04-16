@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on FescoAdecco--Huawei as an embedded C engineer. And sometimes I develop some tools to help my colleagues to work more efficient.
+- 🌱 I’m currently learning qemu oriented to emulate Cortex-m arm CPU like STM32. 
+
 <!--
 **babywade/babywade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
