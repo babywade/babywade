@@ -1,7 +1,7 @@
 ### Hi there 👋 Programming | Mathematicas | Music is the most beautiful things in our life.
 
 - 🔭 I’m currently working on FescoAdecco--Huawei as an embedded C engineer. And sometimes I develop some tools to help my colleagues to work more efficient.
-- 🌱 I’m currently learning qemu oriented to emulate Cortex-m arm CPU like STM32. 
+- 🌱 I’m currently learning Qemu oriented to emulate Cortex-m arm CPU like STM32. 
 - 😄 Pronouns: Programming | Mathematicas | Music is the most beautiful things in our life.
 
 <!--
