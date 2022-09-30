@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on HX as an embedded C engineer. And sometimes I develop some tools to help my colleagues to work more efficient.
 - 🌱 I’m currently learning Qemu oriented to emulate Cortex-m arm CPU like STM32. 
 - 😄 Pronouns: Programming | Mathematicas | Music is the most beautiful things in our life.
-- ⚡ Resume repo: https://github.com/babywade/Resume_markdown
 
 <!--
 **babywade/babywade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
