@@ -1,7 +1,7 @@
 ### Hi there 👋 Programming | Mathematicas | Music is the most beautiful things in our life.
 
-- 🔭 I’m currently working on Rhino as an embedded C engineer. And sometimes I develop some tools to help my colleagues to work more efficient.
-- 🌱 I’m currently learning Qemu oriented to emulate Cortex-m arm CPU like STM32. 
+- 🔭 I’m a freelance as an embedded C engineer. And sometimes I develop some tools to help my colleagues to work more efficient.
+- 🌱 I’m currently learning Qemu oriented to emulate Cortex-m arm CPU like STM32. Now I am studying riscv.
 - 😄 Pronouns: Programming | Mathematicas | Music is the most beautiful things in our life.
 
 <!--
